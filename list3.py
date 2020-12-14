@@ -29,3 +29,7 @@ while index < len(power_rangers):
 for ranger in power_rangers:
     print(ranger)
     if ranger == "Zack":
+
+
+
+# A NEW HOPE
